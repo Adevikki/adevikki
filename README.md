@@ -23,12 +23,8 @@
 :man_technologist: About Me :
 </div>
 
-<div id="badges" align="justify">
-I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-</div>
-
 - 👋 Hi, I’m Adeala Victor @Adevikki
-- 💼 I'm a Mobile Engineer
+- 💼 I'm a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 👯 I build mobile solutions 💻 with Flutter/Dart.
 - 🌱 I’m currently learning Java...
 - 👯 I’m looking to collaborate on mobile engineering projects
