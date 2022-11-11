@@ -24,7 +24,7 @@
 </div>
 
 <div id="badges" align="justify">
-I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Nigeria.
+I am a Mobile Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 </div>
 
 - 👋 Hi, I’m Adeala Victor @Adevikki
